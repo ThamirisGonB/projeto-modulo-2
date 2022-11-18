@@ -1,1 +1,3 @@
-# projeto-modulo-2
+# projeto-squad
+ 
+https://luuanwinck.github.io/projeto-squad/index.html
